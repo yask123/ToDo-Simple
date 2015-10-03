@@ -3,4 +3,5 @@ A simple ToDo list android application
 
 Click on `ADD` to add task and long press on `Task` when it is complete to remove from the list.
 
-![alt text](https://dl.pushbulletusercontent.com/WczqIFSkCQEgZIw4DaFzjTwZMhr3iPM7/Screenshot_2015-10-03-19-34-34-156.jpeg "Screenshot")
+<img src="https://dl.pushbulletusercontent.com/WczqIFSkCQEgZIw4DaFzjTwZMhr3iPM7/Screenshot_2015-10-03-19-34-34-156.jpeg" alt="Drawing" style="width: 40px;"/>
+
